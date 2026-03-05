@@ -11,10 +11,11 @@ To ensure meaningful and accurate analysis, the project deliberately focuses on 
 ## 🎯 Project Objectives
 The main objectives of this project are to:
 
-- Identify the **most in-demand technical skills** in the Saudi job market.
-- Analyze **skill similarities and differences** across tech and data-related roles.
-- Understand how frequently certain tools and technologies appear in job descriptions.
-- Provide insights that can help students, job seekers, and decision-makers understand current market needs.
+- To identify the most frequently demanded skills in data and AI–related job postings in Saudi Arabia.
+- To examine the distribution of different skill categories, such as technical, analytical, and soft skills, within Saudi data and AI job advertisements.
+- To analyze variations in skill requirements across different data and AI roles, including positions such as Data Scientist and Data Analyst.
+- To explore common combinations of skills requested by employers in data and AI job postings in the Saudi job market.
+
 
 ---
 
