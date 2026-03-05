@@ -46,16 +46,7 @@ These roles were selected due to their **shared technical skill sets**, making t
 
 The collected data is stored in its **raw form** during Phase 1 and is prepared for preprocessing and analysis in subsequent phases.
 
----
 
-## 🧩 Project Phases
-- **Phase 1:** Data Collection & Documentation  
-- **Phase 2:** Data Cleaning & Preprocessing  
-- **Phase 3:** Exploratory Data Analysis (EDA)  
-- **Phase 4:** Skill Extraction & Analysis  
-- **Phase 5:** Insights, Conclusions & Reporting  
-
----
 
 ## 🛠️ Tools & Technologies
 - Python
