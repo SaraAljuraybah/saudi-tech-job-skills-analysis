@@ -76,3 +76,6 @@ The collected data is stored in its **raw form** during Phase 1 and is prepared 
 
 ## 📬 Contact
 For questions or collaboration inquiries, please contact the project team via GitHub.
+
+## 📬 presentation
+https://canva.link/fb7p6w6uiohiper
